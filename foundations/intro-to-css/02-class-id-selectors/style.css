@@ -1,0 +1,15 @@
+.odd{
+    background-color: rgb(242, 151, 151);
+}
+.sizeadj{
+    font-size: larger;
+}
+#one{
+    color: blue;
+    font-size: x-large;
+}
+#two{
+    background-color: rgb(206, 250, 161);
+    font-size: large;
+    font-weight: bold;
+}
